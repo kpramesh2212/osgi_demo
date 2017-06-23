@@ -1,0 +1,3 @@
+# bundleocounter.bnd
+Private-Package: com.osgi.tutorial
+Bundle-Activator: com.osgi.tutorial.HeartBeatActivator
